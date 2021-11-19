@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kovurumanasa/demo-package/issues"
   },
+  "publishConfig": {
+    "@kovurumanasa:registry": "https://npm.pkg.github.com"
+  },
   "homepage": "https://github.com/kovurumanasa/demo-package#readme"
 }
